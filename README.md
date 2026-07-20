@@ -1,23 +1,22 @@
-# AFuegoWorks Landing Page
+# AFuegoWorks landing page
 
-A lightweight one-page site for `afuegoworks.com`, built with plain HTML, CSS, and JavaScript.
+A single-page static site for GitHub Pages.
 
-## Deploy on GitHub Pages
+## Publish
 
-1. Upload `index.html`, `styles.css`, `script.js`, and `favicon.svg` to the root of your GitHub Pages repository.
-2. Commit and push to the branch used by GitHub Pages, usually `main`.
-3. In the repository, open **Settings → Pages** and confirm that the site deploys from the correct branch.
-4. Keep your custom domain set to `afuegoworks.com`.
+Upload these to the root of your GitHub Pages repository:
 
-## Before publishing
+- `index.html`
+- `assets/af-logo.png`
 
-Search `index.html` and update these links if needed:
+Keep your existing `CNAME` file.
 
-- GitHub
-- YouTube
-- X
-- Instagram
-- Gumroad
-- Contact email
+## Edit before publishing
 
-The current contact address is a placeholder: `contact@afuegoworks.com`.
+Search `index.html` for these values and confirm them:
+
+- `https://github.com/afuegoworks`
+- `https://x.com/AFuegoWorks`
+- `contact@afuegoworks.com`
+
+The page is self-contained except for the logo and Google Fonts.
